@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-realnye-dengi-s-vyvodom-53b2c.github.io
+Sitemap: https://kazino-na-realnye-dengi-s-vyvodom-53b2c.github.io/sitemap.xml
